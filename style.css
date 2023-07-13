@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(94, 146, 192);
+}
+
+form h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form{
+    background-color: rgb(83, 190, 190);
+    width: 600px;
+    margin: 60px auto;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.input-group{
+    padding: 10px;
+}
+
+input{
+    height: 30px;
+    padding: 8px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 6px;
+    border-color: bisque;
+}
+
+button:hover{
+    background-color: rgb(13, 112, 112);
+    font-weight: bold;
+}
+
+button:active{
+    background-color: rgb(54, 233, 233);
+}
+
+.message{
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(35, 35, 209);
+    font-size: 30px;
+}
+
+
