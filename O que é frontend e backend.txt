@@ -1,0 +1,20 @@
+O que é frontend?
+Frontend é a parte visual dos sites e aplicações. É a parte que interage com o usuário.
+Nele, o usuario clica em links para acessar informações do seu interesse.
+Preenche formulários que levarão suas informações para o servidor que hospeda o site ou
+aplicação.
+
+exemplo:
+Pagina inicial do banco de Brasil que tem uma caixa de texto para login e senha.
+
+
+
+O que é Backend?
+Backend é a parte que fica por tras da aplicação. Responsável por levar informações para
+um banco de dados ou para um tratamento pertinente à aplicação. Não é acessível pelo usuario.
+
+
+Exemplo:
+Na página de auto atendimento do Banco do Brasil, quando o usuario insere login e senha,
+suas informações são levadas ao servidor de banco de dados para comparação e posterior validação
+das informações, dando ao usuario, permissão de acesso a sua conta.
